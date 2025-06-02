@@ -1,1 +1,1 @@
-# batarya_uygulamas-
+# batarya_uygulamasi
